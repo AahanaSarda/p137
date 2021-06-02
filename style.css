@@ -1,0 +1,38 @@
+body
+{
+background-position: center;
+background-size: cover;
+font-family: 'Pattaya', sans-serif;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 5px 5px 5px palevioletred;
+border-radius: 10px;
+margin-top: 180px;
+border-color: black;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:palevioletred;
+    bottom: 0;
+    width: 100%;
+    background-color: palegreen;
+    line-height: 3;
+    text-align:center;
+}
+
+
